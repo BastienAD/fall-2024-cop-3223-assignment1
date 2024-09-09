@@ -1,10 +1,21 @@
+//*************************************
+// fracturing.c
+// Author: Bastien Denham 5563725
+// Date: 9/8/24
+// Class: COP 3223, Professor Parra
+// Purpose: Writing  program that will house many internal functions. 
+//
+// Input: Coordinates
+//
+// Output: Measurements for a circular city.
+//************************************** 
+
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
 #define PI 3.14159
 
-/*Bastien Denham
-5563725*/
 
 //Prototype
 	int proto(void);
